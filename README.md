@@ -377,7 +377,7 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 
 # Define variables
-REPO_URL="https://github.com/suneelprojects/react-node-mysql-app.git"
+REPO_URL="https://github.com/BalajiBathala/react-node-mysql-app.git"
 BRANCH_NAME="feature/add-logging"
 REPO_DIR="/home/ec2-user/react-node-mysql-app/frontend"
 ENV_FILE="$REPO_DIR/.env"
